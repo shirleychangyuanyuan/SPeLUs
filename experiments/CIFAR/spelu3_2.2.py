@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
-# File: cifar10-resnet.py
-# Author: Yuxin Wu <ppwwyyxxc@gmail.com>
 
 
 import os
